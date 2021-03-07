@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Android Development
+- 🌱 I’m currently learning Web Development
 
 <!--
 **rishabh217/rishabh217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
